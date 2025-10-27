@@ -75,29 +75,27 @@ me.say_hi()
 ---
 
 ## 📊 Áreas de Interesse
-
 ```mermaid
 mindmap
-  root((Data Science))
-    Data Analysis
-      Exploração de Dados
-      Limpeza de Dados
-      Visualização
-    Statistics
-      Estatística Descritiva
-      Inferência
-      Probabilidade
-    Machine Learning
-      Supervised Learning
-      Unsupervised Learning
-      Feature Engineering
-    Business Intelligence
-      Dashboards
-      KPIs
-      Relatórios
+  root((🎯 Data Science))
+    📈 Data Analysis
+      🔍 Exploração de Dados
+      🧹 Limpeza de Dados
+      📊 Visualização
+    📐 Statistics
+      📝 Estatística Descritiva
+      🎲 Inferência
+      🔢 Probabilidade
+    🤖 Machine Learning
+      ✅ Supervised Learning
+      🔄 Unsupervised Learning
+      ⚙️ Feature Engineering
+    💼 Business Intelligence
+      📱 Dashboards
+      🎯 KPIs
+      📄 Relatórios
 ```
-
----
+\```
 
 ## 🌱 Atualmente Estudando
 
