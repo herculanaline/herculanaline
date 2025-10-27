@@ -60,17 +60,7 @@ me.say_hi()
 
 ## 📈 Estatísticas GitHub
 
-<div align="center">
-  
-  ![Visitor Count](https://profile-counter.glitch.me/herculanaline/count.svg)
-  
-  ### Estatísticas do GitHub
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=herculanaline&show_icons=true&theme=radical)
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=herculanaline&layout=compact&theme=radical)
-  
-</div>
+<img src="https://count.getloli.com/get/@herculanaline?theme=rule34" alt="Visitor Count" />
 
 ---
 
