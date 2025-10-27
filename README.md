@@ -76,24 +76,51 @@ me.say_hi()
 
 ## 📊 Áreas de Interesse
 ```mermaid
-mindmap
-  root((🎯 Data Science))
-    📈 Data Analysis
-      🔍 Exploração de Dados
-      🧹 Limpeza de Dados
-      📊 Visualização
-    📐 Statistics
-      📝 Estatística Descritiva
-      🎲 Inferência
-      🔢 Probabilidade
-    🤖 Machine Learning
-      ✅ Supervised Learning
-      🔄 Unsupervised Learning
-      ⚙️ Feature Engineering
-    💼 Business Intelligence
-      📱 Dashboards
-      🎯 KPIs
-      📄 Relatórios
+graph TD
+    A["🎯 Data Science"]
+    
+    A --> B["📈 Data Analysis"]
+    A --> C["📐 Statistics"]
+    A --> D["🤖 Machine Learning"]
+    A --> E["💼 Business Intelligence"]
+    
+    B --> B1["🔍 Exploração"]
+    B --> B2["🧹 Limpeza"]
+    B --> B3["📊 Visualização"]
+    
+    C --> C1["📝 Descritiva"]
+    C --> C2["🎲 Inferência"]
+    C --> C3["🔢 Probabilidade"]
+    
+    D --> D1["✅ Supervised"]
+    D --> D2["🔄 Unsupervised"]
+    D --> D3["⚙️ Features"]
+    
+    E --> E1["📱 Dashboards"]
+    E --> E2["🎯 KPIs"]
+    E --> E3["📄 Relatórios"]
+    
+    style A fill:#c084fc,stroke:#a855f7,stroke-width:4px,color:#fff
+    
+    style B fill:#93c5fd,stroke:#60a5fa,stroke-width:2px,color:#000
+    style B1 fill:#bfdbfe,stroke:#93c5fd,color:#000
+    style B2 fill:#bfdbfe,stroke:#93c5fd,color:#000
+    style B3 fill:#bfdbfe,stroke:#93c5fd,color:#000
+    
+    style C fill:#86efac,stroke:#4ade80,stroke-width:2px,color:#000
+    style C1 fill:#bbf7d0,stroke:#86efac,color:#000
+    style C2 fill:#bbf7d0,stroke:#86efac,color:#000
+    style C3 fill:#bbf7d0,stroke:#86efac,color:#000
+    
+    style D fill:#fcd34d,stroke:#fbbf24,stroke-width:2px,color:#000
+    style D1 fill:#fef08a,stroke:#fcd34d,color:#000
+    style D2 fill:#fef08a,stroke:#fcd34d,color:#000
+    style D3 fill:#fef08a,stroke:#fcd34d,color:#000
+    
+    style E fill:#fca5a5,stroke:#f87171,stroke-width:2px,color:#000
+    style E1 fill:#fecaca,stroke:#fca5a5,color:#000
+    style E2 fill:#fecaca,stroke:#fca5a5,color:#000
+    style E3 fill:#fecaca,stroke:#fca5a5,color:#000
 ```
 \```
 
