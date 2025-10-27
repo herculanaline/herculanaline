@@ -62,15 +62,14 @@ me.say_hi()
 
 <div align="center">
   
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=herculanaline&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herculanaline&layout=compact&langs_count=8&theme=tokyonight"/>
-
-</div>
-
-<div align="center">
+  ![Visitor Count](https://profile-counter.glitch.me/herculanaline/count.svg)
   
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=herculanaline&theme=tokyonight)
-
+  ### Estatísticas do GitHub
+  
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=herculanaline&show_icons=true&theme=radical)
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=herculanaline&layout=compact&theme=radical)
+  
 </div>
 
 ---
