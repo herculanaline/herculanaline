@@ -129,7 +129,7 @@ mindmap
 
 **Sempre aberta para colaborar em projetos de dados e trocar conhecimentos!**
 
-![Profile Views](https://komarev.com/ghpvc/?username=herculanaline&color=ff69b4&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=herculanaline&color=blueviolet&style=flat-square)
 
 </div>
 
