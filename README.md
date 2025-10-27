@@ -43,10 +43,6 @@ me.say_hi()
 ![GDScript](https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
 
 ### 📊 Data Science & Analytics
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### 🎨 Design & Dev Tools
@@ -105,9 +101,7 @@ mindmap
 
 ## 🌱 Atualmente Estudando
 
-- 📊 **Análise de Dados** com Python e Pandas
-- 🤖 **Machine Learning** e modelos preditivos
-- 📈 **Visualização de Dados** com Matplotlib, Seaborn e Plotly
+- 📊 **Análise de Dados** com Python
 - 🗄️ **SQL** e bancos de dados relacionais
 - 📉 **Estatística** aplicada à Ciência de Dados
 
@@ -130,10 +124,6 @@ mindmap
 **Sempre aberta para colaborar em projetos de dados e trocar conhecimentos!**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=herculanaline&color=blueviolet&style=for-the-badge)
-
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/herculanaline)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](SEU_LINKEDIN)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](SEU_PORTFOLIO)
 
 </div>
 
